@@ -1,12 +1,11 @@
-package io.tutorialspring.garageApp.service;
+package io.tutorialSpring.garageApp.service;
 
-import io.tutorialspring.garageApp.model.Car;
-import io.tutorialspring.garageApp.repository.GarageRepository;
+import io.tutorialSpring.garageApp.model.Car;
+import io.tutorialSpring.garageApp.repository.GarageRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 @Service

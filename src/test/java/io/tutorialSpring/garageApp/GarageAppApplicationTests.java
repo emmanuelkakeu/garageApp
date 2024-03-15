@@ -1,4 +1,4 @@
-package io.tutorialspring.garageApp;
+package io.tutorialSpring.garageApp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

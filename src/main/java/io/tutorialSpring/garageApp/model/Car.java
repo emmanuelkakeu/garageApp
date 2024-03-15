@@ -1,4 +1,4 @@
-package io.tutorialspring.garageApp.model;
+package io.tutorialSpring.garageApp.model;
 
 import jakarta.persistence.*;
 
